@@ -1,0 +1,315 @@
+,date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+0,6/9/2006,Germany,Costa Rica,4,2,FIFA World Cup,Munich,Germany,FALSE
+1,6/9/2006,Poland,Ecuador,0,2,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+2,6/10/2006,Argentina,Ivory Coast,2,1,FIFA World Cup,Hamburg,Germany,TRUE
+3,6/10/2006,England,Paraguay,1,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE
+4,6/10/2006,Trinidad and Tobago,Sweden,0,0,FIFA World Cup,Dortmund,Germany,TRUE
+5,6/11/2006,Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,TRUE
+6,6/11/2006,Mexico,Iran,3,1,FIFA World Cup,Nuremberg,Germany,TRUE
+7,6/11/2006,Serbia,Netherlands,0,1,FIFA World Cup,Leipzig,Germany,TRUE
+8,6/12/2006,Australia,Japan,3,1,FIFA World Cup,Kaiserslautern,Germany,TRUE
+9,6/12/2006,Italy,Ghana,2,0,FIFA World Cup,Hanover,Germany,TRUE
+10,6/12/2006,United States,Czech Republic,0,3,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+11,6/13/2006,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,TRUE
+12,6/13/2006,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,TRUE
+13,6/13/2006,South Korea,Togo,2,1,FIFA World Cup,Frankfurt am Main,Germany,TRUE
+14,6/14/2006,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,FALSE
+15,6/14/2006,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,TRUE
+16,6/14/2006,Tunisia,Saudi Arabia,2,2,FIFA World Cup,Munich,Germany,TRUE
+17,6/15/2006,Ecuador,Costa Rica,3,0,FIFA World Cup,Hamburg,Germany,TRUE
+18,6/15/2006,England,Trinidad and Tobago,2,0,FIFA World Cup,Nuremberg,Germany,TRUE
+19,6/15/2006,Sweden,Paraguay,1,0,FIFA World Cup,Berlin,Germany,TRUE
+20,6/16/2006,Argentina,Serbia,6,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+21,6/16/2006,Mexico,Angola,0,0,FIFA World Cup,Hanover,Germany,TRUE
+22,6/16/2006,Netherlands,Ivory Coast,2,1,FIFA World Cup,Stuttgart,Germany,TRUE
+23,6/17/2006,Czech Republic,Ghana,0,2,FIFA World Cup,Cologne,Germany,TRUE
+24,6/17/2006,Italy,United States,1,1,FIFA World Cup,Kaiserslautern,Germany,TRUE
+25,6/17/2006,Portugal,Iran,2,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE
+26,6/18/2006,Brazil,Australia,2,0,FIFA World Cup,Munich,Germany,TRUE
+27,6/18/2006,France,South Korea,1,1,FIFA World Cup,Leipzig,Germany,TRUE
+28,6/18/2006,Japan,Croatia,0,0,FIFA World Cup,Nuremberg,Germany,TRUE
+29,6/19/2006,Saudi Arabia,Ukraine,0,4,FIFA World Cup,Hamburg,Germany,TRUE
+30,6/19/2006,Spain,Tunisia,3,1,FIFA World Cup,Stuttgart,Germany,TRUE
+31,6/19/2006,Togo,Switzerland,0,2,FIFA World Cup,Dortmund,Germany,TRUE
+32,6/20/2006,Costa Rica,Poland,1,2,FIFA World Cup,Hanover,Germany,TRUE
+33,6/20/2006,Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,FALSE
+34,6/20/2006,Paraguay,Trinidad and Tobago,2,0,FIFA World Cup,Kaiserslautern,Germany,TRUE
+35,6/20/2006,Sweden,England,2,2,FIFA World Cup,Cologne,Germany,TRUE
+36,6/21/2006,Iran,Angola,1,1,FIFA World Cup,Leipzig,Germany,TRUE
+37,6/21/2006,Ivory Coast,Serbia,3,2,FIFA World Cup,Munich,Germany,TRUE
+38,6/21/2006,Netherlands,Argentina,0,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE
+39,6/21/2006,Portugal,Mexico,2,1,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+40,6/22/2006,Croatia,Australia,2,2,FIFA World Cup,Stuttgart,Germany,TRUE
+41,6/22/2006,Czech Republic,Italy,0,2,FIFA World Cup,Hamburg,Germany,TRUE
+42,6/22/2006,Ghana,United States,2,1,FIFA World Cup,Nuremberg,Germany,TRUE
+43,6/22/2006,Japan,Brazil,1,4,FIFA World Cup,Dortmund,Germany,TRUE
+44,6/23/2006,Saudi Arabia,Spain,0,1,FIFA World Cup,Kaiserslautern,Germany,TRUE
+45,6/23/2006,Switzerland,South Korea,2,0,FIFA World Cup,Hanover,Germany,TRUE
+46,6/23/2006,Togo,France,0,2,FIFA World Cup,Cologne,Germany,TRUE
+47,6/23/2006,Ukraine,Tunisia,1,0,FIFA World Cup,Berlin,Germany,TRUE
+48,6/24/2006,Argentina,Mexico,2,1,FIFA World Cup,Leipzig,Germany,TRUE
+49,6/24/2006,Germany,Sweden,2,0,FIFA World Cup,Munich,Germany,FALSE
+50,6/25/2006,England,Ecuador,1,0,FIFA World Cup,Stuttgart,Germany,TRUE
+51,6/25/2006,Portugal,Netherlands,1,0,FIFA World Cup,Nuremberg,Germany,TRUE
+52,6/26/2006,Italy,Australia,1,0,FIFA World Cup,Kaiserslautern,Germany,TRUE
+53,6/26/2006,Switzerland,Ukraine,0,0,FIFA World Cup,Cologne,Germany,TRUE
+54,6/27/2006,Brazil,Ghana,3,0,FIFA World Cup,Dortmund,Germany,TRUE
+55,6/27/2006,Spain,France,1,3,FIFA World Cup,Hanover,Germany,TRUE
+56,6/30/2006,Germany,Argentina,1,1,FIFA World Cup,Berlin,Germany,FALSE
+57,6/30/2006,Italy,Ukraine,3,0,FIFA World Cup,Hamburg,Germany,TRUE
+58,7/1/2006,Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,TRUE
+59,7/1/2006,England,Portugal,0,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+60,7/4/2006,Germany,Italy,0,2,FIFA World Cup,Dortmund,Germany,FALSE
+61,7/5/2006,Portugal,France,0,1,FIFA World Cup,Munich,Germany,TRUE
+62,7/8/2006,Germany,Portugal,3,1,FIFA World Cup,Stuttgart,Germany,FALSE
+63,7/9/2006,Italy,France,1,1,FIFA World Cup,Berlin,Germany,TRUE
+256,6/6/2007,Costa Rica,Canada,1,2,Gold Cup,Miami,United States,TRUE
+257,6/9/2007,Canada,Guadeloupe,1,2,Gold Cup,Miami,United States,TRUE
+258,6/11/2007,Haiti,Canada,0,2,Gold Cup,Miami,United States,TRUE
+259,6/16/2007,Canada,Guatemala,3,0,Gold Cup,Foxborough,United States,TRUE
+260,6/21/2007,United States,Canada,2,1,Gold Cup,Chicago,United States,FALSE
+297,7/9/2007,Japan,Qatar,1,1,AFC Asian Cup,Hanoi,Vietnam,TRUE
+298,7/12/2007,Vietnam,Qatar,1,1,AFC Asian Cup,Hanoi,Vietnam,FALSE
+299,7/16/2007,Qatar,United Arab Emirates,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
+261,7/3/2009,Canada,Jamaica,1,0,Gold Cup,Carson,United States,TRUE
+262,7/7/2009,El Salvador,Canada,0,1,Gold Cup,Columbus,United States,TRUE
+263,7/10/2009,Costa Rica,Canada,2,2,Gold Cup,Miami,United States,TRUE
+264,7/18/2009,Canada,Honduras,0,1,Gold Cup,Philadelphia,United States,TRUE
+64,6/11/2010,South Africa,Mexico,1,1,FIFA World Cup,Johannesburg,South Africa,FALSE
+65,6/11/2010,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,TRUE
+66,6/12/2010,Argentina,Nigeria,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+67,6/12/2010,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE
+68,6/12/2010,South Korea,Greece,2,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+69,6/13/2010,Algeria,Slovenia,0,1,FIFA World Cup,Polokwane,South Africa,TRUE
+70,6/13/2010,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,TRUE
+71,6/13/2010,Serbia,Ghana,0,1,FIFA World Cup,Pretoria,South Africa,TRUE
+72,6/14/2010,Italy,Paraguay,1,1,FIFA World Cup,Cape Town,South Africa,TRUE
+73,6/14/2010,Japan,Cameroon,1,0,FIFA World Cup,Bloemfontein,South Africa,TRUE
+74,6/14/2010,Netherlands,Denmark,2,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+75,6/15/2010,Brazil,North Korea,2,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+76,6/15/2010,Ivory Coast,Portugal,0,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+77,6/15/2010,New Zealand,Slovakia,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE
+78,6/16/2010,Honduras,Chile,0,1,FIFA World Cup,Nelspruit,South Africa,TRUE
+79,6/16/2010,South Africa,Uruguay,0,3,FIFA World Cup,Pretoria,South Africa,FALSE
+80,6/16/2010,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,TRUE
+81,6/17/2010,Argentina,South Korea,4,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+82,6/17/2010,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,TRUE
+83,6/17/2010,Greece,Nigeria,2,1,FIFA World Cup,Bloemfontein,South Africa,TRUE
+84,6/18/2010,England,Algeria,0,0,FIFA World Cup,Cape Town,South Africa,TRUE
+85,6/18/2010,Germany,Serbia,0,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+86,6/18/2010,Slovenia,United States,2,2,FIFA World Cup,Johannesburg,South Africa,TRUE
+87,6/19/2010,Cameroon,Denmark,1,2,FIFA World Cup,Pretoria,South Africa,TRUE
+88,6/19/2010,Ghana,Australia,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE
+89,6/19/2010,Netherlands,Japan,1,0,FIFA World Cup,Durban,South Africa,TRUE
+90,6/20/2010,Brazil,Ivory Coast,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+91,6/20/2010,Italy,New Zealand,1,1,FIFA World Cup,Nelspruit,South Africa,TRUE
+92,6/20/2010,Slovakia,Paraguay,0,2,FIFA World Cup,Bloemfontein,South Africa,TRUE
+93,6/21/2010,Chile,Switzerland,1,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+94,6/21/2010,Portugal,North Korea,7,0,FIFA World Cup,Cape Town,South Africa,TRUE
+95,6/21/2010,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+96,6/22/2010,Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,TRUE
+97,6/22/2010,Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,TRUE
+98,6/22/2010,Nigeria,South Korea,2,2,FIFA World Cup,Durban,South Africa,TRUE
+99,6/22/2010,South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,FALSE
+100,6/23/2010,Australia,Serbia,2,1,FIFA World Cup,Nelspruit,South Africa,TRUE
+101,6/23/2010,Ghana,Germany,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+102,6/23/2010,Slovenia,England,0,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+103,6/23/2010,United States,Algeria,1,0,FIFA World Cup,Pretoria,South Africa,TRUE
+104,6/24/2010,Cameroon,Netherlands,1,2,FIFA World Cup,Cape Town,South Africa,TRUE
+105,6/24/2010,Denmark,Japan,1,3,FIFA World Cup,Rustenburg,South Africa,TRUE
+106,6/24/2010,Paraguay,New Zealand,0,0,FIFA World Cup,Polokwane,South Africa,TRUE
+107,6/24/2010,Slovakia,Italy,3,2,FIFA World Cup,Johannesburg,South Africa,TRUE
+108,6/25/2010,Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,TRUE
+109,6/25/2010,North Korea,Ivory Coast,0,3,FIFA World Cup,Nelspruit,South Africa,TRUE
+110,6/25/2010,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,TRUE
+111,6/25/2010,Switzerland,Honduras,0,0,FIFA World Cup,Bloemfontein,South Africa,TRUE
+112,6/26/2010,Uruguay,South Korea,2,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+113,6/26/2010,United States,Ghana,1,2,FIFA World Cup,Rustenburg,South Africa,TRUE
+114,6/27/2010,Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+115,6/27/2010,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,TRUE
+116,6/28/2010,Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+117,6/28/2010,Netherlands,Slovakia,2,1,FIFA World Cup,Durban,South Africa,TRUE
+118,6/29/2010,Paraguay,Japan,0,0,FIFA World Cup,Pretoria,South Africa,TRUE
+119,6/29/2010,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,TRUE
+120,7/2/2010,Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+121,7/2/2010,Uruguay,Ghana,1,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+122,7/3/2010,Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,TRUE
+123,7/3/2010,Paraguay,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+124,7/6/2010,Uruguay,Netherlands,2,3,FIFA World Cup,Cape Town,South Africa,TRUE
+125,7/7/2010,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,TRUE
+126,7/10/2010,Uruguay,Germany,2,3,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+127,7/11/2010,Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+300,1/7/2011,Qatar,Uzbekistan,0,2,AFC Asian Cup,Doha,Qatar,FALSE
+301,1/12/2011,Qatar,China PR,2,0,AFC Asian Cup,Doha,Qatar,FALSE
+302,1/16/2011,Qatar,Kuwait,3,0,AFC Asian Cup,Doha,Qatar,FALSE
+303,1/21/2011,Qatar,Japan,2,3,AFC Asian Cup,Doha,Qatar,FALSE
+265,6/7/2011,United States,Canada,2,0,Gold Cup,Detroit,United States,FALSE
+266,6/11/2011,Canada,Guadeloupe,1,0,Gold Cup,Tampa,United States,TRUE
+267,6/14/2011,Canada,Panama,1,1,Gold Cup,Kansas City,United States,TRUE
+268,7/7/2013,Canada,Martinique,0,1,Gold Cup,Pasadena,United States,TRUE
+269,7/11/2013,Mexico,Canada,2,0,Gold Cup,Seattle,United States,TRUE
+270,7/14/2013,Panama,Canada,0,0,Gold Cup,Denver,United States,TRUE
+128,6/12/2014,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,FALSE
+129,6/13/2014,Chile,Australia,3,1,FIFA World Cup,Cuiabá,Brazil,TRUE
+130,6/13/2014,Mexico,Cameroon,1,0,FIFA World Cup,Natal,Brazil,TRUE
+131,6/13/2014,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,TRUE
+132,6/14/2014,Colombia,Greece,3,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+133,6/14/2014,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,TRUE
+134,6/14/2014,Ivory Coast,Japan,2,1,FIFA World Cup,Recife,Brazil,TRUE
+135,6/14/2014,Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,TRUE
+136,6/15/2014,Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+137,6/15/2014,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,TRUE
+138,6/15/2014,Switzerland,Ecuador,2,1,FIFA World Cup,Brasília,Brazil,TRUE
+139,6/16/2014,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,TRUE
+140,6/16/2014,Ghana,United States,1,2,FIFA World Cup,Natal,Brazil,TRUE
+141,6/16/2014,Iran,Nigeria,0,0,FIFA World Cup,Curitiba,Brazil,TRUE
+142,6/17/2014,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+143,6/17/2014,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,FALSE
+144,6/17/2014,Russia,South Korea,1,1,FIFA World Cup,Cuiabá,Brazil,TRUE
+145,6/18/2014,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,TRUE
+146,6/18/2014,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,TRUE
+147,6/18/2014,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+148,6/19/2014,Colombia,Ivory Coast,2,1,FIFA World Cup,Brasília,Brazil,TRUE
+149,6/19/2014,Japan,Greece,0,0,FIFA World Cup,Natal,Brazil,TRUE
+150,6/19/2014,Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,TRUE
+151,6/20/2014,Honduras,Ecuador,1,2,FIFA World Cup,Curitiba,Brazil,TRUE
+152,6/20/2014,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,TRUE
+153,6/20/2014,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,TRUE
+154,6/21/2014,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+155,6/21/2014,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,TRUE
+156,6/21/2014,Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,Cuiabá,Brazil,TRUE
+157,6/22/2014,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+158,6/22/2014,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,TRUE
+159,6/22/2014,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,TRUE
+160,6/23/2014,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,TRUE
+161,6/23/2014,Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,FALSE
+162,6/23/2014,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,TRUE
+163,6/23/2014,Netherlands,Chile,2,0,FIFA World Cup,São Paulo,Brazil,TRUE
+164,6/24/2014,Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+165,6/24/2014,Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,TRUE
+166,6/24/2014,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,TRUE
+167,6/24/2014,Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,TRUE
+168,6/25/2014,Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,TRUE
+169,6/25/2014,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+170,6/25/2014,Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,TRUE
+171,6/25/2014,Nigeria,Argentina,2,3,FIFA World Cup,Porto Alegre,Brazil,TRUE
+172,6/26/2014,Algeria,Russia,1,1,FIFA World Cup,Curitiba,Brazil,TRUE
+173,6/26/2014,South Korea,Belgium,0,1,FIFA World Cup,São Paulo,Brazil,TRUE
+174,6/26/2014,Portugal,Ghana,2,1,FIFA World Cup,Brasília,Brazil,TRUE
+175,6/26/2014,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,TRUE
+176,6/28/2014,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,FALSE
+177,6/28/2014,Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+178,6/29/2014,Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,TRUE
+179,6/29/2014,Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,TRUE
+180,6/30/2014,France,Nigeria,2,0,FIFA World Cup,Brasília,Brazil,TRUE
+181,6/30/2014,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,TRUE
+182,7/1/2014,Argentina,Switzerland,1,0,FIFA World Cup,São Paulo,Brazil,TRUE
+183,7/1/2014,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,TRUE
+184,7/4/2014,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,FALSE
+185,7/4/2014,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+186,7/5/2014,Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,TRUE
+187,7/5/2014,Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,TRUE
+188,7/8/2014,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,FALSE
+189,7/9/2014,Netherlands,Argentina,0,0,FIFA World Cup,São Paulo,Brazil,TRUE
+190,7/12/2014,Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,FALSE
+191,7/13/2014,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+304,1/11/2015,United Arab Emirates,Qatar,4,1,AFC Asian Cup,Canberra,Australia,TRUE
+305,1/15/2015,Qatar,Iran,0,1,AFC Asian Cup,Sydney,Australia,TRUE
+306,1/19/2015,Qatar,Bahrain,1,2,AFC Asian Cup,Sydney,Australia,TRUE
+271,7/8/2015,El Salvador,Canada,0,0,Gold Cup,Carson,United States,TRUE
+272,7/11/2015,Jamaica,Canada,1,0,Gold Cup,Houston,United States,TRUE
+273,7/14/2015,Canada,Costa Rica,0,0,Gold Cup,Toronto,Canada,FALSE
+287,6/11/2016,Wales,Slovakia,2,1,UEFA Euro,Bordeaux,France,TRUE
+288,6/16/2016,England,Wales,2,1,UEFA Euro,Lens,France,TRUE
+289,6/20/2016,Russia,Wales,0,3,UEFA Euro,Toulouse,France,TRUE
+290,6/25/2016,Wales,Northern Ireland,1,0,UEFA Euro,Paris,France,TRUE
+291,7/1/2016,Wales,Belgium,3,1,UEFA Euro,Villeneuve-d'Ascq,France,TRUE
+292,7/6/2016,Portugal,Wales,2,0,UEFA Euro,Lyon,France,TRUE
+274,7/7/2017,French Guiana,Canada,2,4,Gold Cup,Harrison,United States,TRUE
+275,7/11/2017,Costa Rica,Canada,1,1,Gold Cup,Houston,United States,TRUE
+276,7/14/2017,Canada,Honduras,0,0,Gold Cup,Frisco,United States,TRUE
+277,7/20/2017,Jamaica,Canada,2,1,Gold Cup,Glendale,United States,TRUE
+192,6/14/2018,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,FALSE
+193,6/15/2018,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,TRUE
+194,6/15/2018,Morocco,Iran,0,1,FIFA World Cup,Saint Petersburg,Russia,TRUE
+195,6/15/2018,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,TRUE
+196,6/16/2018,France,Australia,2,1,FIFA World Cup,Kazan,Russia,TRUE
+197,6/16/2018,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+198,6/16/2018,Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,TRUE
+199,6/16/2018,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,TRUE
+200,6/17/2018,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,TRUE
+201,6/17/2018,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,TRUE
+202,6/17/2018,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+203,6/18/2018,Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+204,6/18/2018,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,TRUE
+205,6/18/2018,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,TRUE
+206,6/19/2018,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,TRUE
+207,6/19/2018,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,TRUE
+208,6/19/2018,Russia,Egypt,3,1,FIFA World Cup,Saint Petersburg,Russia,FALSE
+209,6/20/2018,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,TRUE
+210,6/20/2018,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+211,6/20/2018,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,TRUE
+212,6/21/2018,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,TRUE
+213,6/21/2018,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,TRUE
+214,6/21/2018,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+215,6/22/2018,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+216,6/22/2018,Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,TRUE
+217,6/22/2018,Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,TRUE
+218,6/23/2018,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,TRUE
+219,6/23/2018,South Korea,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+220,6/23/2018,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,TRUE
+221,6/24/2018,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+222,6/24/2018,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,TRUE
+223,6/24/2018,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,TRUE
+224,6/25/2018,Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,FALSE
+225,6/25/2018,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,TRUE
+226,6/25/2018,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,TRUE
+227,6/25/2018,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,TRUE
+228,6/26/2018,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,TRUE
+229,6/26/2018,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,TRUE
+230,6/26/2018,Nigeria,Argentina,1,2,FIFA World Cup,Saint Petersburg,Russia,TRUE
+231,6/26/2018,Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+232,6/27/2018,South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,TRUE
+233,6/27/2018,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,TRUE
+234,6/27/2018,Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,TRUE
+235,6/27/2018,Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+236,6/28/2018,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,TRUE
+237,6/28/2018,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,TRUE
+238,6/28/2018,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,TRUE
+239,6/28/2018,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,TRUE
+240,6/30/2018,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,TRUE
+241,6/30/2018,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,TRUE
+242,7/1/2018,Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,FALSE
+243,7/1/2018,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+244,7/2/2018,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,TRUE
+245,7/2/2018,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+246,7/3/2018,Sweden,Switzerland,1,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+247,7/3/2018,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,TRUE
+248,7/6/2018,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+249,7/6/2018,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,TRUE
+250,7/7/2018,Sweden,England,0,2,FIFA World Cup,Samara,Russia,TRUE
+251,7/7/2018,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,FALSE
+252,7/10/2018,France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+253,7/11/2018,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,TRUE
+254,7/14/2018,Belgium,England,2,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+255,7/15/2018,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,TRUE
+307,1/9/2019,Qatar,Lebanon,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+308,1/13/2019,North Korea,Qatar,0,6,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE
+309,1/17/2019,Saudi Arabia,Qatar,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+310,1/22/2019,Qatar,Iraq,1,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+311,1/25/2019,South Korea,Qatar,0,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+312,1/29/2019,United Arab Emirates,Qatar,0,4,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE
+313,2/1/2019,Japan,Qatar,1,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE
+278,6/15/2019,Canada,Martinique,4,0,Gold Cup,Los Angeles,United States,TRUE
+279,6/19/2019,Mexico,Canada,3,1,Gold Cup,Denver,United States,TRUE
+280,6/23/2019,Canada,Cuba,7,0,Gold Cup,Charlotte,United States,TRUE
+281,6/29/2019,Haiti,Canada,3,2,Gold Cup,Houston,United States,TRUE
+293,6/12/2021,Wales,Switzerland,1,1,UEFA Euro,Cardiff,Wales,FALSE
+294,6/16/2021,Turkey,Wales,0,2,UEFA Euro,Baku,Azerbaijan,TRUE
+295,6/20/2021,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
+296,6/26/2021,Wales,Denmark,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE
+282,7/11/2021,Canada,Martinique,4,1,Gold Cup,Kansas City,United States,TRUE
+283,7/15/2021,Haiti,Canada,1,4,Gold Cup,Kansas City,United States,TRUE
+284,7/18/2021,United States,Canada,1,0,Gold Cup,Kansas City,United States,FALSE
+285,7/25/2021,Costa Rica,Canada,0,2,Gold Cup,Arlington,United States,TRUE
+286,7/29/2021,Mexico,Canada,2,1,Gold Cup,Houston,United States,TRUE
