@@ -1,0 +1,309 @@
+,date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,home_team_score,away_team_score,tournament,city,country,neutral_location,shoot_out,home_team_result,home_team_goalkeeper_score,away_team_goalkeeper_score,home_team_mean_defense_score,home_team_mean_offense_score,home_team_mean_midfield_score,away_team_mean_defense_score,away_team_mean_offense_score,away_team_mean_midfield_score
+176,6/9/2006,Germany,Costa Rica,Europe,North America,19,26,0,0,4,2,FIFA World Cup,Munich,Germany,FALSE,No,Win,93,72,86.2,85,86,69.5,70,68.8
+177,6/9/2006,Poland,Ecuador,Europe,South America,29,39,0,0,0,2,FIFA World Cup,Gelsenkirchen,Germany,TRUE,No,Lose,88,,78.2,82,76.2,,,
+178,6/10/2006,Argentina,Côte d'Ivoire,South America,Africa,9,32,0,0,2,1,FIFA World Cup,Hamburg,Germany,TRUE,No,Win,87,69,86.5,86,87,81.2,81.7,75.8
+179,6/10/2006,England,Paraguay,Europe,South America,10,33,0,0,1,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE,No,Win,87,81,89.5,90,88.2,76.2,80,70.2
+180,6/10/2006,Trinidad and Tobago,Sweden,South America,Europe,47,16,0,0,0,0,FIFA World Cup,Dortmund,Germany,TRUE,No,Draw,73,80,65.5,68,,79.2,83.3,79.2
+181,6/11/2006,Angola,Portugal,Africa,Europe,57,7,0,0,0,1,FIFA World Cup,Cologne,Germany,TRUE,No,Lose,66,83,,79.3,,85.5,81,89
+182,6/11/2006,Mexico,IR Iran,North America,Asia,4,23,0,0,3,1,FIFA World Cup,Nuremberg,Germany,TRUE,No,Win,83,,77,80.3,75.2,,71.3,73.8
+183,6/11/2006,Serbia,Netherlands,Europe,Europe,47,3,0,0,0,1,FIFA World Cup,Leipzig,Germany,TRUE,No,Lose,75,86,78.5,82.3,81.5,84,91,85.2
+184,6/12/2006,Australia,Japan,Oceania,Asia,42,18,0,0,3,1,FIFA World Cup,Kaiserslautern,Germany,TRUE,No,Win,83,,72.8,76.3,78.8,,70.3,74.8
+185,6/12/2006,Italy,Ghana,Europe,Africa,13,48,0,0,2,0,FIFA World Cup,Hanover,Germany,TRUE,No,Win,95,,90.2,89.3,86.5,75.5,73.3,77
+186,6/12/2006,USA,Czech Republic,North America,Europe,5,2,0,0,0,3,FIFA World Cup,Gelsenkirchen,Germany,TRUE,No,Lose,84,94,77.2,76.7,78.5,82.2,83,83.5
+187,6/13/2006,Brazil,Croatia,South America,Europe,1,23,0,0,1,0,FIFA World Cup,Berlin,Germany,TRUE,No,Win,91,77,88,92.7,92,82.5,82,77.5
+188,6/13/2006,France,Switzerland,Europe,Europe,8,35,0,0,0,0,FIFA World Cup,Stuttgart,Germany,TRUE,No,Draw,90,75,87.5,91,89,78.8,77.7,77
+189,6/13/2006,Korea Republic,Togo,Asia,Africa,29,61,0,0,2,1,FIFA World Cup,Frankfurt am Main,Germany,TRUE,No,Win,76,67,76,79.3,75,,72,
+190,6/14/2006,Germany,Poland,Europe,Europe,19,29,0,0,1,0,FIFA World Cup,Dortmund,Germany,FALSE,No,Win,93,88,86.2,85,86,78.2,82,76.2
+191,6/14/2006,Spain,Ukraine,Europe,Europe,5,45,0,0,4,0,FIFA World Cup,Leipzig,Germany,TRUE,No,Win,95,,87.5,88.7,89.2,,81.7,67.5
+192,6/14/2006,Tunisia,Saudi Arabia,Africa,Asia,21,34,0,0,2,2,FIFA World Cup,Munich,Germany,TRUE,No,Draw,67,,71.5,70.7,73,,,
+193,6/15/2006,Ecuador,Costa Rica,South America,North America,39,26,0,0,3,0,FIFA World Cup,Hamburg,Germany,TRUE,No,Win,,72,,,,69.5,70,68.8
+194,6/15/2006,England,Trinidad and Tobago,Europe,South America,10,47,0,0,2,0,FIFA World Cup,Nuremberg,Germany,TRUE,No,Win,87,73,89.5,90,88.2,65.5,68,
+195,6/15/2006,Sweden,Paraguay,Europe,South America,16,33,0,0,1,0,FIFA World Cup,Berlin,Germany,TRUE,No,Win,80,81,79.2,83.3,79.2,76.2,80,70.2
+196,6/16/2006,Argentina,Serbia,South America,Europe,9,47,0,0,6,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE,No,Win,87,75,86.5,86,87,78.5,82.3,81.5
+197,6/16/2006,Mexico,Angola,North America,Africa,4,57,0,0,0,0,FIFA World Cup,Hanover,Germany,TRUE,No,Draw,83,66,77,80.3,75.2,,79.3,
+198,6/16/2006,Netherlands,Côte d'Ivoire,Europe,Africa,3,32,0,0,2,1,FIFA World Cup,Stuttgart,Germany,TRUE,No,Win,86,69,84,91,85.2,81.2,81.7,75.8
+199,6/17/2006,Czech Republic,Ghana,Europe,Africa,2,48,0,0,0,2,FIFA World Cup,Cologne,Germany,TRUE,No,Lose,94,,82.2,83,83.5,75.5,73.3,77
+200,6/17/2006,Italy,USA,Europe,North America,13,5,0,0,1,1,FIFA World Cup,Kaiserslautern,Germany,TRUE,No,Draw,95,84,90.2,89.3,86.5,77.2,76.7,78.5
+201,6/17/2006,Portugal,IR Iran,Europe,Asia,7,23,0,0,2,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE,No,Win,83,,85.5,81,89,,71.3,73.8
+202,6/18/2006,Brazil,Australia,South America,Oceania,1,42,0,0,2,0,FIFA World Cup,Munich,Germany,TRUE,No,Win,91,83,88,92.7,92,72.8,76.3,78.8
+203,6/18/2006,France,Korea Republic,Europe,Asia,8,29,0,0,1,1,FIFA World Cup,Leipzig,Germany,TRUE,No,Draw,90,76,87.5,91,89,76,79.3,75
+204,6/18/2006,Japan,Croatia,Asia,Europe,18,23,0,0,0,0,FIFA World Cup,Nuremberg,Germany,TRUE,No,Draw,,77,,70.3,74.8,82.5,82,77.5
+205,6/19/2006,Saudi Arabia,Ukraine,Asia,Europe,34,45,0,0,0,4,FIFA World Cup,Hamburg,Germany,TRUE,No,Lose,,,,,,,81.7,67.5
+206,6/19/2006,Spain,Tunisia,Europe,Africa,5,21,0,0,3,1,FIFA World Cup,Stuttgart,Germany,TRUE,No,Win,95,67,87.5,88.7,89.2,71.5,70.7,73
+207,6/19/2006,Togo,Switzerland,Africa,Europe,61,35,0,0,0,2,FIFA World Cup,Dortmund,Germany,TRUE,No,Lose,67,75,,72,,78.8,77.7,77
+208,6/20/2006,Costa Rica,Poland,North America,Europe,26,29,0,0,1,2,FIFA World Cup,Hanover,Germany,TRUE,No,Lose,72,88,69.5,70,68.8,78.2,82,76.2
+209,6/20/2006,Germany,Ecuador,Europe,South America,19,39,0,0,3,0,FIFA World Cup,Berlin,Germany,FALSE,No,Win,93,,86.2,85,86,,,
+210,6/20/2006,Paraguay,Trinidad and Tobago,South America,South America,33,47,0,0,2,0,FIFA World Cup,Kaiserslautern,Germany,TRUE,No,Win,81,73,76.2,80,70.2,65.5,68,
+211,6/20/2006,Sweden,England,Europe,Europe,16,10,0,0,2,2,FIFA World Cup,Cologne,Germany,TRUE,No,Draw,80,87,79.2,83.3,79.2,89.5,90,88.2
+212,6/21/2006,IR Iran,Angola,Asia,Africa,23,57,0,0,1,1,FIFA World Cup,Leipzig,Germany,TRUE,No,Draw,,66,,71.3,73.8,,79.3,
+213,6/21/2006,Côte d'Ivoire,Serbia,Africa,Europe,32,47,0,0,3,2,FIFA World Cup,Munich,Germany,TRUE,No,Win,69,75,81.2,81.7,75.8,78.5,82.3,81.5
+214,6/21/2006,Netherlands,Argentina,Europe,South America,3,9,0,0,0,0,FIFA World Cup,Frankfurt am Main,Germany,TRUE,No,Draw,86,87,84,91,85.2,86.5,86,87
+215,6/21/2006,Portugal,Mexico,Europe,North America,7,4,0,0,2,1,FIFA World Cup,Gelsenkirchen,Germany,TRUE,No,Win,83,83,85.5,81,89,77,80.3,75.2
+216,6/22/2006,Croatia,Australia,Europe,Oceania,23,42,0,0,2,2,FIFA World Cup,Stuttgart,Germany,TRUE,No,Draw,77,83,82.5,82,77.5,72.8,76.3,78.8
+217,6/22/2006,Czech Republic,Italy,Europe,Europe,2,13,0,0,0,2,FIFA World Cup,Hamburg,Germany,TRUE,No,Lose,94,95,82.2,83,83.5,90.2,89.3,86.5
+218,6/22/2006,Ghana,USA,Africa,North America,48,5,0,0,2,1,FIFA World Cup,Nuremberg,Germany,TRUE,No,Win,,84,75.5,73.3,77,77.2,76.7,78.5
+219,6/22/2006,Japan,Brazil,Asia,South America,18,1,0,0,1,4,FIFA World Cup,Dortmund,Germany,TRUE,No,Lose,,91,,70.3,74.8,88,92.7,92
+220,6/23/2006,Saudi Arabia,Spain,Asia,Europe,34,5,0,0,0,1,FIFA World Cup,Kaiserslautern,Germany,TRUE,No,Lose,,95,,,,87.5,88.7,89.2
+221,6/23/2006,Switzerland,Korea Republic,Europe,Asia,35,29,0,0,2,0,FIFA World Cup,Hanover,Germany,TRUE,No,Win,75,76,78.8,77.7,77,76,79.3,75
+222,6/23/2006,Togo,France,Africa,Europe,61,8,0,0,0,2,FIFA World Cup,Cologne,Germany,TRUE,No,Lose,67,90,,72,,87.5,91,89
+223,6/23/2006,Ukraine,Tunisia,Europe,Africa,45,21,0,0,1,0,FIFA World Cup,Berlin,Germany,TRUE,No,Win,,67,,81.7,67.5,71.5,70.7,73
+224,6/24/2006,Argentina,Mexico,South America,North America,9,4,0,0,2,1,FIFA World Cup,Leipzig,Germany,TRUE,No,Win,87,83,86.5,86,87,77,80.3,75.2
+225,6/24/2006,Germany,Sweden,Europe,Europe,19,16,0,0,2,0,FIFA World Cup,Munich,Germany,FALSE,No,Win,93,80,86.2,85,86,79.2,83.3,79.2
+226,6/25/2006,England,Ecuador,Europe,South America,10,39,0,0,1,0,FIFA World Cup,Stuttgart,Germany,TRUE,No,Win,87,,89.5,90,88.2,,,
+227,6/25/2006,Portugal,Netherlands,Europe,Europe,7,3,0,0,1,0,FIFA World Cup,Nuremberg,Germany,TRUE,No,Win,83,86,85.5,81,89,84,91,85.2
+228,6/26/2006,Italy,Australia,Europe,Oceania,13,42,0,0,1,0,FIFA World Cup,Kaiserslautern,Germany,TRUE,No,Win,95,83,90.2,89.3,86.5,72.8,76.3,78.8
+229,6/26/2006,Switzerland,Ukraine,Europe,Europe,35,45,0,0,0,0,FIFA World Cup,Cologne,Germany,TRUE,Yes,Lose,75,,78.8,77.7,77,,81.7,67.5
+230,6/27/2006,Brazil,Ghana,South America,Africa,1,48,0,0,3,0,FIFA World Cup,Dortmund,Germany,TRUE,No,Win,91,,88,92.7,92,75.5,73.3,77
+231,6/27/2006,Spain,France,Europe,Europe,5,8,0,0,1,3,FIFA World Cup,Hanover,Germany,TRUE,No,Lose,95,90,87.5,88.7,89.2,87.5,91,89
+232,6/30/2006,Germany,Argentina,Europe,South America,19,9,0,0,1,1,FIFA World Cup,Berlin,Germany,FALSE,Yes,Win,93,87,86.2,85,86,86.5,86,87
+233,6/30/2006,Italy,Ukraine,Europe,Europe,13,45,0,0,3,0,FIFA World Cup,Hamburg,Germany,TRUE,No,Win,95,,90.2,89.3,86.5,,81.7,67.5
+234,7/1/2006,Brazil,France,South America,Europe,1,8,0,0,0,1,FIFA World Cup,Frankfurt am Main,Germany,TRUE,No,Lose,91,90,88,92.7,92,87.5,91,89
+235,7/1/2006,England,Portugal,Europe,Europe,10,7,0,0,0,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE,Yes,Lose,87,83,89.5,90,88.2,85.5,81,89
+236,7/4/2006,Germany,Italy,Europe,Europe,19,13,0,0,0,2,FIFA World Cup,Dortmund,Germany,FALSE,No,Lose,93,95,86.2,85,86,90.2,89.3,86.5
+237,7/5/2006,Portugal,France,Europe,Europe,7,8,0,0,0,1,FIFA World Cup,Munich,Germany,TRUE,No,Lose,83,90,85.5,81,89,87.5,91,89
+238,7/8/2006,Germany,Portugal,Europe,Europe,19,7,0,0,3,1,FIFA World Cup,Stuttgart,Germany,FALSE,No,Win,93,83,86.2,85,86,85.5,81,89
+239,7/9/2006,Italy,France,Europe,Europe,13,8,0,0,1,1,FIFA World Cup,Berlin,Germany,TRUE,Yes,Win,95,90,90.2,89.3,86.5,87.5,91,89
+448,6/6/2007,Costa Rica,Canada,North America,North America,52,94,0,0,1,2,Gold Cup,Miami,USA,TRUE,No,Lose,,72,,60.7,,70.5,72.3,72
+449,6/11/2007,Haiti,Canada,North America,North America,85,94,0,0,0,2,Gold Cup,Miami,USA,TRUE,No,Lose,,72,,63,,70.5,72.3,72
+450,6/16/2007,Canada,Guatemala,North America,North America,56,81,0,0,3,0,Gold Cup,Foxborough,USA,TRUE,No,Win,72,,70.5,72.3,72,,67,
+451,6/21/2007,USA,Canada,North America,North America,16,56,0,0,2,1,Gold Cup,Chicago,USA,FALSE,No,Win,83,72,75,75.7,76,70.5,72.3,72
+490,7/9/2007,Japan,Qatar,Asia,Asia,40,85,0,0,1,1,AFC Asian Cup,Hanoi,Vietnam,TRUE,No,Draw,,,,68.3,72.8,,,
+491,7/12/2007,Vietnam,Qatar,Asia,Asia,142,85,0,0,1,1,AFC Asian Cup,Hanoi,Vietnam,FALSE,No,Draw,,,,,,,,
+492,7/16/2007,Qatar,United Arab Emirates,Asia,Asia,85,94,0,0,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE,No,Lose,,,,,,,,
+452,7/3/2009,Canada,Jamaica,North America,North America,92,65,0,0,1,0,Gold Cup,Carson,USA,TRUE,No,Win,70,64,69.2,71,72,68,72.7,68.8
+453,7/7/2009,El Salvador,Canada,North America,North America,90,92,0,0,0,1,Gold Cup,Columbus,USA,TRUE,No,Lose,,70,,,,69.2,71,72
+454,7/10/2009,Costa Rica,Canada,North America,North America,30,92,0,0,2,2,Gold Cup,Miami,USA,TRUE,No,Draw,,70,65,71.3,66.5,69.2,71,72
+455,7/18/2009,Canada,Honduras,North America,North America,92,39,0,0,0,1,Gold Cup,Philadelphia,USA,TRUE,No,Lose,70,,69.2,71,72,,70.3,71
+240,6/11/2010,South Africa,Mexico,Africa,North America,83,17,0,0,1,1,FIFA World Cup,Johannesburg,South Africa,FALSE,No,Draw,71,79,72.2,72,75.2,76.5,77.7,76.8
+241,6/11/2010,Uruguay,France,South America,Europe,16,9,0,0,0,0,FIFA World Cup,Cape Town,South Africa,TRUE,No,Draw,76,86,78,83,77.5,84,83.3,84.5
+242,6/12/2010,Argentina,Nigeria,South America,Africa,7,21,0,0,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,78,,82.5,87.3,83.8,75.5,79,75.2
+243,6/12/2010,England,USA,Europe,North America,8,14,0,0,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Draw,81,82,85.2,85,85.8,73.8,73.7,78.2
+244,6/12/2010,Korea Republic,Greece,Asia,Europe,47,13,0,0,2,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Win,73,79,71.2,71.3,73.8,76,78,78.5
+245,6/13/2010,Algeria,Slovenia,Africa,Europe,30,25,0,0,0,1,FIFA World Cup,Polokwane,South Africa,TRUE,No,Lose,,78,72.5,73.7,75.5,70.2,72.7,71.8
+246,6/13/2010,Germany,Australia,Europe,Oceania,6,20,0,0,4,0,FIFA World Cup,Durban,South Africa,TRUE,No,Win,85,79,82.8,82.7,82.2,73.8,76,75
+247,6/13/2010,Serbia,Ghana,Europe,Africa,15,32,0,0,0,1,FIFA World Cup,Pretoria,South Africa,TRUE,No,Lose,75,66,80.2,77.3,80.2,71.8,73.3,80.2
+248,6/14/2010,Italy,Paraguay,Europe,South America,5,31,0,0,1,1,FIFA World Cup,Cape Town,South Africa,TRUE,No,Draw,88,76,83.8,85.3,84,74.8,80.3,73
+249,6/14/2010,Japan,Cameroon,Asia,Africa,45,19,0,0,1,0,FIFA World Cup,Bloemfontein,South Africa,TRUE,No,Win,,81,60,66.7,76.2,75.2,78,78.5
+250,6/14/2010,Netherlands,Denmark,Europe,Europe,4,36,0,0,2,0,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,83,76,77.8,83.7,83.8,77,75.7,76.2
+251,6/15/2010,Brazil,Korea DPR,South America,Asia,1,105,0,0,2,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,89,,84.8,85.3,82.5,,,
+252,6/15/2010,Côte d'Ivoire,Portugal,Africa,Europe,27,3,0,0,0,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Draw,73,79,74.8,83.3,80,82,84.3,82.8
+253,6/15/2010,New Zealand,Slovakia,Oceania,Europe,78,34,0,0,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Draw,60,77,64.5,66,61.2,74,77.7,74.8
+254,6/16/2010,Honduras,Chile,North America,South America,38,18,0,0,0,1,FIFA World Cup,Nelspruit,South Africa,TRUE,No,Lose,,75,,74.7,74.2,74.2,77.3,78.5
+255,6/16/2010,South Africa,Uruguay,Africa,South America,83,16,0,0,0,3,FIFA World Cup,Pretoria,South Africa,FALSE,No,Lose,71,76,72.2,72,75.2,78,83,77.5
+256,6/16/2010,Spain,Switzerland,Europe,Europe,2,24,0,0,0,1,FIFA World Cup,Durban,South Africa,TRUE,No,Lose,90,80,85,85.3,87,76.5,76,77
+257,6/17/2010,Argentina,Korea Republic,South America,Asia,7,47,0,0,4,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,78,73,82.5,87.3,83.8,71.2,71.3,73.8
+258,6/17/2010,France,Mexico,Europe,North America,9,17,0,0,0,2,FIFA World Cup,Polokwane,South Africa,TRUE,No,Lose,86,79,84,83.3,84.5,76.5,77.7,76.8
+259,6/17/2010,Greece,Nigeria,Europe,Africa,13,21,0,0,2,1,FIFA World Cup,Bloemfontein,South Africa,TRUE,No,Win,79,,76,78,78.5,75.5,79,75.2
+260,6/18/2010,England,Algeria,Europe,Africa,8,30,0,0,0,0,FIFA World Cup,Cape Town,South Africa,TRUE,No,Draw,81,,85.2,85,85.8,72.5,73.7,75.5
+261,6/18/2010,Germany,Serbia,Europe,Europe,6,15,0,0,0,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Lose,85,75,82.8,82.7,82.2,80.2,77.3,80.2
+262,6/18/2010,Slovenia,USA,Europe,North America,25,14,0,0,2,2,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Draw,78,82,70.2,72.7,71.8,73.8,73.7,78.2
+263,6/19/2010,Cameroon,Denmark,Africa,Europe,19,36,0,0,1,2,FIFA World Cup,Pretoria,South Africa,TRUE,No,Lose,81,76,75.2,78,78.5,77,75.7,76.2
+264,6/19/2010,Ghana,Australia,Africa,Oceania,32,20,0,0,1,1,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Draw,66,79,71.8,73.3,80.2,73.8,76,75
+265,6/19/2010,Netherlands,Japan,Europe,Asia,4,45,0,0,1,0,FIFA World Cup,Durban,South Africa,TRUE,No,Win,83,,77.8,83.7,83.8,60,66.7,76.2
+266,6/20/2010,Brazil,Côte d'Ivoire,South America,Africa,1,27,0,0,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,89,73,84.8,85.3,82.5,74.8,83.3,80
+267,6/20/2010,Italy,New Zealand,Europe,Oceania,5,78,0,0,1,1,FIFA World Cup,Nelspruit,South Africa,TRUE,No,Draw,88,60,83.8,85.3,84,64.5,66,61.2
+268,6/20/2010,Slovakia,Paraguay,Europe,South America,34,31,0,0,0,2,FIFA World Cup,Bloemfontein,South Africa,TRUE,No,Lose,77,76,74,77.7,74.8,74.8,80.3,73
+269,6/21/2010,Chile,Switzerland,South America,Europe,18,24,0,0,1,0,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Win,75,80,74.2,77.3,78.5,76.5,76,77
+270,6/21/2010,Portugal,Korea DPR,Europe,Asia,3,105,0,0,7,0,FIFA World Cup,Cape Town,South Africa,TRUE,No,Win,79,,82,84.3,82.8,,,
+271,6/21/2010,Spain,Honduras,Europe,North America,2,38,0,0,2,0,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,90,,85,85.3,87,,74.7,74.2
+272,6/22/2010,Greece,Argentina,Europe,South America,13,7,0,0,0,2,FIFA World Cup,Polokwane,South Africa,TRUE,No,Lose,79,78,76,78,78.5,82.5,87.3,83.8
+273,6/22/2010,Mexico,Uruguay,North America,South America,17,16,0,0,0,1,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Lose,79,76,76.5,77.7,76.8,78,83,77.5
+274,6/22/2010,Nigeria,Korea Republic,Africa,Asia,21,47,0,0,2,2,FIFA World Cup,Durban,South Africa,TRUE,No,Draw,,73,75.5,79,75.2,71.2,71.3,73.8
+275,6/22/2010,South Africa,France,Africa,Europe,83,9,0,0,2,1,FIFA World Cup,Bloemfontein,South Africa,FALSE,No,Win,71,86,72.2,72,75.2,84,83.3,84.5
+276,6/23/2010,Australia,Serbia,Oceania,Europe,20,15,0,0,2,1,FIFA World Cup,Nelspruit,South Africa,TRUE,No,Win,79,75,73.8,76,75,80.2,77.3,80.2
+277,6/23/2010,Ghana,Germany,Africa,Europe,32,6,0,0,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Lose,66,85,71.8,73.3,80.2,82.8,82.7,82.2
+278,6/23/2010,Slovenia,England,Europe,Europe,25,8,0,0,0,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Lose,78,81,70.2,72.7,71.8,85.2,85,85.8
+279,6/23/2010,USA,Algeria,North America,Africa,14,30,0,0,1,0,FIFA World Cup,Pretoria,South Africa,TRUE,No,Win,82,,73.8,73.7,78.2,72.5,73.7,75.5
+280,6/24/2010,Cameroon,Netherlands,Africa,Europe,19,4,0,0,1,2,FIFA World Cup,Cape Town,South Africa,TRUE,No,Lose,81,83,75.2,78,78.5,77.8,83.7,83.8
+281,6/24/2010,Denmark,Japan,Europe,Asia,36,45,0,0,1,3,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Lose,76,,77,75.7,76.2,60,66.7,76.2
+282,6/24/2010,Paraguay,New Zealand,South America,Oceania,31,78,0,0,0,0,FIFA World Cup,Polokwane,South Africa,TRUE,No,Draw,76,60,74.8,80.3,73,64.5,66,61.2
+283,6/24/2010,Slovakia,Italy,Europe,Europe,34,5,0,0,3,2,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,77,88,74,77.7,74.8,83.8,85.3,84
+284,6/25/2010,Chile,Spain,South America,Europe,18,2,0,0,1,2,FIFA World Cup,Pretoria,South Africa,TRUE,No,Lose,75,90,74.2,77.3,78.5,85,85.3,87
+285,6/25/2010,Korea DPR,Côte d'Ivoire,Asia,Africa,105,27,0,0,0,3,FIFA World Cup,Nelspruit,South Africa,TRUE,No,Lose,,73,,,,74.8,83.3,80
+286,6/25/2010,Portugal,Brazil,Europe,South America,3,1,0,0,0,0,FIFA World Cup,Durban,South Africa,TRUE,No,Draw,79,89,82,84.3,82.8,84.8,85.3,82.5
+287,6/25/2010,Switzerland,Honduras,Europe,North America,24,38,0,0,0,0,FIFA World Cup,Bloemfontein,South Africa,TRUE,No,Draw,80,,76.5,76,77,,74.7,74.2
+288,6/26/2010,Uruguay,Korea Republic,South America,Asia,16,47,0,0,2,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Win,76,73,78,83,77.5,71.2,71.3,73.8
+289,6/26/2010,USA,Ghana,North America,Africa,14,32,0,0,1,2,FIFA World Cup,Rustenburg,South Africa,TRUE,No,Lose,82,66,73.8,73.7,78.2,71.8,73.3,80.2
+290,6/27/2010,Argentina,Mexico,South America,North America,7,17,0,0,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,78,79,82.5,87.3,83.8,76.5,77.7,76.8
+291,6/27/2010,Germany,England,Europe,Europe,6,8,0,0,4,1,FIFA World Cup,Bloemfontein,South Africa,TRUE,No,Win,85,81,82.8,82.7,82.2,85.2,85,85.8
+292,6/28/2010,Brazil,Chile,South America,South America,1,18,0,0,3,0,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Win,89,75,84.8,85.3,82.5,74.2,77.3,78.5
+293,6/28/2010,Netherlands,Slovakia,Europe,Europe,4,34,0,0,2,1,FIFA World Cup,Durban,South Africa,TRUE,No,Win,83,77,77.8,83.7,83.8,74,77.7,74.8
+294,6/29/2010,Paraguay,Japan,South America,Asia,31,45,0,0,0,0,FIFA World Cup,Pretoria,South Africa,TRUE,Yes,Win,76,,74.8,80.3,73,60,66.7,76.2
+295,6/29/2010,Spain,Portugal,Europe,Europe,2,3,0,0,1,0,FIFA World Cup,Cape Town,South Africa,TRUE,No,Win,90,79,85,85.3,87,82,84.3,82.8
+296,7/2/2010,Netherlands,Brazil,Europe,South America,4,1,0,0,2,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Win,83,89,77.8,83.7,83.8,84.8,85.3,82.5
+297,7/2/2010,Uruguay,Ghana,South America,Africa,16,32,0,0,1,1,FIFA World Cup,Johannesburg,South Africa,TRUE,Yes,Win,76,66,78,83,77.5,71.8,73.3,80.2
+298,7/3/2010,Argentina,Germany,South America,Europe,7,6,0,0,0,4,FIFA World Cup,Cape Town,South Africa,TRUE,No,Lose,78,85,82.5,87.3,83.8,82.8,82.7,82.2
+299,7/3/2010,Paraguay,Spain,South America,Europe,31,2,0,0,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Lose,76,90,74.8,80.3,73,85,85.3,87
+300,7/6/2010,Uruguay,Netherlands,South America,Europe,16,4,0,0,2,3,FIFA World Cup,Cape Town,South Africa,TRUE,No,Lose,76,83,78,83,77.5,77.8,83.7,83.8
+301,7/7/2010,Germany,Spain,Europe,Europe,6,2,0,0,0,1,FIFA World Cup,Durban,South Africa,TRUE,No,Lose,85,90,82.8,82.7,82.2,85,85.3,87
+302,7/10/2010,Uruguay,Germany,South America,Europe,16,6,0,0,2,3,FIFA World Cup,Port Elizabeth,South Africa,TRUE,No,Lose,76,85,78,83,77.5,82.8,82.7,82.2
+303,7/11/2010,Netherlands,Spain,Europe,Europe,4,2,0,0,0,1,FIFA World Cup,Johannesburg,South Africa,TRUE,No,Lose,83,90,77.8,83.7,83.8,85,85.3,87
+493,1/7/2011,Qatar,Uzbekistan,Asia,Asia,112,109,0,0,0,2,AFC Asian Cup,Doha,Qatar,FALSE,No,Lose,,,,,,,,66.8
+494,1/12/2011,Qatar,China PR,Asia,Asia,105,79,0,0,2,0,AFC Asian Cup,Doha,Qatar,FALSE,No,Win,,71,,,,63.8,68.3,66
+495,1/16/2011,Qatar,Kuwait,Asia,Asia,105,99,0,0,3,0,AFC Asian Cup,Doha,Qatar,FALSE,No,Win,,,,,,,,
+496,1/21/2011,Qatar,Japan,Asia,Asia,105,29,0,0,2,3,AFC Asian Cup,Doha,Qatar,FALSE,No,Lose,,69,,,,73,69.3,75.5
+456,6/7/2011,USA,Canada,North America,North America,22,77,0,0,2,0,Gold Cup,Detroit,USA,FALSE,No,Win,81,77,73,75,78.5,68.2,,74.2
+457,6/14/2011,Canada,Panama,North America,North America,77,67,0,0,1,1,Gold Cup,Kansas City,USA,TRUE,No,Draw,77,68,68.2,,74.2,,,
+458,7/11/2013,Mexico,Canada,North America,North America,20,88,879,413,2,0,Gold Cup,Seattle,USA,TRUE,No,Win,78,67,76,80.7,75,68,73.3,68.5
+459,7/14/2013,Panama,Canada,North America,North America,51,88,601,413,0,0,Gold Cup,Denver,USA,TRUE,No,Draw,66,67,,68.7,,68,73.3,68.5
+304,6/12/2014,Brazil,Croatia,South America,Europe,3,18,1242,903,3,1,FIFA World Cup,São Paulo,Brazil,FALSE,No,Win,82,75,84.8,84,83.2,77.8,79.7,80
+305,6/13/2014,Chile,Australia,South America,Oceania,14,62,1026,525,3,1,FIFA World Cup,Cuiabá,Brazil,TRUE,No,Win,81,77,73.2,78.7,80,69,72,71.8
+306,6/13/2014,Mexico,Cameroon,North America,Africa,20,56,881,558,1,0,FIFA World Cup,Natal,Brazil,TRUE,No,Win,78,72,74.8,81.3,74.8,77.5,77,77.5
+307,6/13/2014,Spain,Netherlands,Europe,Europe,1,15,1484,981,1,5,FIFA World Cup,Salvador,Brazil,TRUE,No,Lose,86,80,83.5,85.7,87,76.5,87,81.5
+308,6/14/2014,Colombia,Greece,South America,Europe,8,12,1137,1063,3,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE,No,Win,76,74,75.8,83,80.8,76.8,76,75
+309,6/14/2014,England,Italy,Europe,Europe,10,9,1090,1103,1,2,FIFA World Cup,Manaus,Brazil,TRUE,No,Lose,82,84,82,83.7,81.2,81.8,82.7,84
+310,6/14/2014,Côte d'Ivoire,Japan,Africa,Asia,23,46,809,626,2,1,FIFA World Cup,Recife,Brazil,TRUE,No,Win,71,74,75,82.7,78.5,72.2,72.7,78.2
+311,6/14/2014,Uruguay,Costa Rica,South America,North America,7,28,1147,762,1,3,FIFA World Cup,Fortaleza,Brazil,TRUE,No,Lose,82,78,78.5,84.7,78.2,70.8,72.3,72.8
+312,6/15/2014,Argentina,Bosnia and Herzegovina,South America,Europe,5,21,1174,872,2,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Win,79,82,81.2,89.3,83.2,75.8,79.3,75.2
+313,6/15/2014,France,Honduras,Europe,North America,17,33,913,731,3,0,FIFA World Cup,Porto Alegre,Brazil,TRUE,No,Win,84,,81,82.3,85,70.8,,71.5
+314,6/15/2014,Switzerland,Ecuador,Europe,South America,6,26,1148,791,2,1,FIFA World Cup,Brasília,Brazil,TRUE,No,Win,80,70,77,76.3,78.8,68,74,76.8
+315,6/16/2014,Germany,Portugal,Europe,Europe,2,4,1299,1189,4,0,FIFA World Cup,Salvador,Brazil,TRUE,No,Win,87,81,84.5,84.7,86,80.5,84.7,81.5
+316,6/16/2014,Ghana,USA,Africa,North America,37,13,704,1034,1,2,FIFA World Cup,Natal,Brazil,TRUE,No,Lose,71,81,70.5,72.7,78.5,73,76,77
+317,6/16/2014,IR Iran,Nigeria,Asia,Africa,43,44,641,639,0,0,FIFA World Cup,Curitiba,Brazil,TRUE,No,Draw,68,79,,62.7,,70.8,74.7,76.2
+318,6/17/2014,Belgium,Algeria,Europe,Africa,11,22,1073,857,2,1,FIFA World Cup,Belo Horizonte,Brazil,TRUE,No,Win,84,73,81.2,81,82.5,73.8,74.3,76.5
+319,6/17/2014,Brazil,Mexico,South America,North America,3,20,1242,881,0,0,FIFA World Cup,Fortaleza,Brazil,FALSE,No,Draw,82,78,84.8,84,83.2,74.8,81.3,74.8
+320,6/17/2014,Russia,Korea Republic,Europe,Asia,19,57,893,546,1,1,FIFA World Cup,Cuiabá,Brazil,TRUE,No,Draw,84,73,77.8,75.3,79.5,70.5,73.7,75
+321,6/18/2014,Australia,Netherlands,Oceania,Europe,62,15,525,981,2,3,FIFA World Cup,Curitiba,Brazil,TRUE,No,Lose,77,80,69,72,71.8,76.5,87,81.5
+322,6/18/2014,Cameroon,Croatia,Africa,Europe,56,18,558,903,0,4,FIFA World Cup,Manaus,Brazil,TRUE,No,Lose,72,75,77.5,77,77.5,77.8,79.7,80
+323,6/18/2014,Spain,Chile,Europe,South America,1,14,1484,1026,0,2,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Lose,86,81,83.5,85.7,87,73.2,78.7,80
+324,6/19/2014,Colombia,Côte d'Ivoire,South America,Africa,8,23,1137,809,2,1,FIFA World Cup,Brasília,Brazil,TRUE,No,Win,76,71,75.8,83,80.8,75,82.7,78.5
+325,6/19/2014,Japan,Greece,Asia,Europe,46,12,626,1063,0,0,FIFA World Cup,Natal,Brazil,TRUE,No,Draw,74,74,72.2,72.7,78.2,76.8,76,75
+326,6/19/2014,Uruguay,England,South America,Europe,7,10,1147,1090,2,1,FIFA World Cup,São Paulo,Brazil,TRUE,No,Win,82,82,78.5,84.7,78.2,82,83.7,81.2
+327,6/20/2014,Honduras,Ecuador,North America,South America,33,26,731,791,1,2,FIFA World Cup,Curitiba,Brazil,TRUE,No,Lose,,70,70.8,,71.5,68,74,76.8
+328,6/20/2014,Italy,Costa Rica,Europe,North America,9,28,1103,762,0,1,FIFA World Cup,Recife,Brazil,TRUE,No,Lose,84,78,81.8,82.7,84,70.8,72.3,72.8
+329,6/20/2014,Switzerland,France,Europe,Europe,6,17,1148,913,2,5,FIFA World Cup,Salvador,Brazil,TRUE,No,Lose,80,84,77,76.3,78.8,81,82.3,85
+330,6/21/2014,Argentina,IR Iran,South America,Asia,5,43,1174,641,1,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE,No,Win,79,68,81.2,89.3,83.2,,62.7,
+331,6/21/2014,Germany,Ghana,Europe,Africa,2,37,1299,704,2,2,FIFA World Cup,Fortaleza,Brazil,TRUE,No,Draw,87,71,84.5,84.7,86,70.5,72.7,78.5
+332,6/21/2014,Nigeria,Bosnia and Herzegovina,Africa,Europe,44,21,639,872,1,0,FIFA World Cup,Cuiabá,Brazil,TRUE,No,Win,79,82,70.8,74.7,76.2,75.8,79.3,75.2
+333,6/22/2014,Belgium,Russia,Europe,Europe,11,19,1073,893,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Win,84,84,81.2,81,82.5,77.8,75.3,79.5
+334,6/22/2014,Korea Republic,Algeria,Asia,Africa,57,22,546,857,2,4,FIFA World Cup,Porto Alegre,Brazil,TRUE,No,Lose,73,73,70.5,73.7,75,73.8,74.3,76.5
+335,6/22/2014,USA,Portugal,North America,Europe,13,4,1034,1189,2,2,FIFA World Cup,Manaus,Brazil,TRUE,No,Draw,81,81,73,76,77,80.5,84.7,81.5
+336,6/23/2014,Australia,Spain,Oceania,Europe,62,1,525,1484,0,3,FIFA World Cup,Curitiba,Brazil,TRUE,No,Lose,77,86,69,72,71.8,83.5,85.7,87
+337,6/23/2014,Brazil,Cameroon,South America,Africa,3,56,1242,558,4,1,FIFA World Cup,Brasília,Brazil,FALSE,No,Win,82,72,84.8,84,83.2,77.5,77,77.5
+338,6/23/2014,Croatia,Mexico,Europe,North America,18,20,903,881,1,3,FIFA World Cup,Recife,Brazil,TRUE,No,Lose,75,78,77.8,79.7,80,74.8,81.3,74.8
+339,6/23/2014,Netherlands,Chile,Europe,South America,15,14,981,1026,2,0,FIFA World Cup,São Paulo,Brazil,TRUE,No,Win,80,81,76.5,87,81.5,73.2,78.7,80
+340,6/24/2014,Costa Rica,England,North America,Europe,28,10,762,1090,0,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE,No,Draw,78,82,70.8,72.3,72.8,82,83.7,81.2
+341,6/24/2014,Greece,Côte d'Ivoire,Europe,Africa,12,23,1063,809,2,1,FIFA World Cup,Fortaleza,Brazil,TRUE,No,Win,74,71,76.8,76,75,75,82.7,78.5
+342,6/24/2014,Italy,Uruguay,Europe,South America,9,7,1103,1147,0,1,FIFA World Cup,Natal,Brazil,TRUE,No,Lose,84,82,81.8,82.7,84,78.5,84.7,78.2
+343,6/24/2014,Japan,Colombia,Asia,South America,46,8,626,1137,1,4,FIFA World Cup,Cuiabá,Brazil,TRUE,No,Lose,74,76,72.2,72.7,78.2,75.8,83,80.8
+344,6/25/2014,Bosnia and Herzegovina,IR Iran,Europe,Asia,21,43,872,641,3,1,FIFA World Cup,Salvador,Brazil,TRUE,No,Win,82,68,75.8,79.3,75.2,,62.7,
+345,6/25/2014,Ecuador,France,South America,Europe,26,17,791,913,0,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Draw,70,84,68,74,76.8,81,82.3,85
+346,6/25/2014,Honduras,Switzerland,North America,Europe,33,6,731,1148,0,3,FIFA World Cup,Manaus,Brazil,TRUE,No,Lose,,80,70.8,,71.5,77,76.3,78.8
+347,6/25/2014,Nigeria,Argentina,Africa,South America,44,5,639,1174,2,3,FIFA World Cup,Porto Alegre,Brazil,TRUE,No,Lose,79,79,70.8,74.7,76.2,81.2,89.3,83.2
+348,6/26/2014,Algeria,Russia,Africa,Europe,22,19,857,893,1,1,FIFA World Cup,Curitiba,Brazil,TRUE,No,Draw,73,84,73.8,74.3,76.5,77.8,75.3,79.5
+349,6/26/2014,Korea Republic,Belgium,Asia,Europe,57,11,546,1073,0,1,FIFA World Cup,São Paulo,Brazil,TRUE,No,Lose,73,84,70.5,73.7,75,81.2,81,82.5
+350,6/26/2014,Portugal,Ghana,Europe,Africa,4,37,1189,704,2,1,FIFA World Cup,Brasília,Brazil,TRUE,No,Win,81,71,80.5,84.7,81.5,70.5,72.7,78.5
+351,6/26/2014,USA,Germany,North America,Europe,13,2,1034,1299,0,1,FIFA World Cup,Recife,Brazil,TRUE,No,Lose,81,87,73,76,77,84.5,84.7,86
+352,6/28/2014,Brazil,Chile,South America,South America,3,14,1242,1026,1,1,FIFA World Cup,Belo Horizonte,Brazil,FALSE,Yes,Win,82,81,84.8,84,83.2,73.2,78.7,80
+353,6/28/2014,Colombia,Uruguay,South America,South America,8,7,1137,1147,2,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Win,76,82,75.8,83,80.8,78.5,84.7,78.2
+354,6/29/2014,Costa Rica,Greece,North America,Europe,28,12,762,1063,1,1,FIFA World Cup,Recife,Brazil,TRUE,Yes,Win,78,74,70.8,72.3,72.8,76.8,76,75
+355,6/29/2014,Netherlands,Mexico,Europe,North America,15,20,981,881,2,1,FIFA World Cup,Fortaleza,Brazil,TRUE,No,Win,80,78,76.5,87,81.5,74.8,81.3,74.8
+356,6/30/2014,France,Nigeria,Europe,Africa,17,44,913,639,2,0,FIFA World Cup,Brasília,Brazil,TRUE,No,Win,84,79,81,82.3,85,70.8,74.7,76.2
+357,6/30/2014,Germany,Algeria,Europe,Africa,2,22,1299,857,2,1,FIFA World Cup,Porto Alegre,Brazil,TRUE,No,Win,87,73,84.5,84.7,86,73.8,74.3,76.5
+358,7/1/2014,Argentina,Switzerland,South America,Europe,5,6,1174,1148,1,0,FIFA World Cup,São Paulo,Brazil,TRUE,No,Win,79,80,81.2,89.3,83.2,77,76.3,78.8
+359,7/1/2014,Belgium,USA,Europe,North America,11,13,1073,1034,2,1,FIFA World Cup,Salvador,Brazil,TRUE,No,Win,84,81,81.2,81,82.5,73,76,77
+360,7/4/2014,Brazil,Colombia,South America,South America,3,8,1242,1137,2,1,FIFA World Cup,Fortaleza,Brazil,FALSE,No,Win,82,76,84.8,84,83.2,75.8,83,80.8
+361,7/4/2014,France,Germany,Europe,Europe,17,2,913,1299,0,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Lose,84,87,81,82.3,85,84.5,84.7,86
+362,7/5/2014,Argentina,Belgium,South America,Europe,5,11,1174,1073,1,0,FIFA World Cup,Brasília,Brazil,TRUE,No,Win,79,84,81.2,89.3,83.2,81.2,81,82.5
+363,7/5/2014,Netherlands,Costa Rica,Europe,North America,15,28,981,762,0,0,FIFA World Cup,Salvador,Brazil,TRUE,Yes,Win,80,78,76.5,87,81.5,70.8,72.3,72.8
+364,7/8/2014,Brazil,Germany,South America,Europe,3,2,1242,1299,1,7,FIFA World Cup,Belo Horizonte,Brazil,FALSE,No,Lose,82,87,84.8,84,83.2,84.5,84.7,86
+365,7/9/2014,Netherlands,Argentina,Europe,South America,15,5,981,1174,0,0,FIFA World Cup,São Paulo,Brazil,TRUE,Yes,Lose,80,79,76.5,87,81.5,81.2,89.3,83.2
+366,7/12/2014,Brazil,Netherlands,South America,Europe,3,15,1242,981,0,3,FIFA World Cup,Brasília,Brazil,FALSE,No,Lose,82,80,84.8,84,83.2,76.5,87,81.5
+367,7/13/2014,Germany,Argentina,Europe,South America,2,5,1299,1174,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,No,Win,87,79,84.5,84.7,86,81.2,89.3,83.2
+497,1/11/2015,United Arab Emirates,Qatar,Asia,Asia,80,92,408,346,4,1,AFC Asian Cup,Canberra,Australia,TRUE,No,Win,,,,,,,,
+498,1/15/2015,Qatar,IR Iran,Asia,Asia,92,51,346,588,0,1,AFC Asian Cup,Sydney,Australia,TRUE,No,Lose,,68,,,,,,
+499,1/19/2015,Qatar,Bahrain,Asia,Asia,92,110,346,291,1,2,AFC Asian Cup,Sydney,Australia,TRUE,No,Lose,,,,,,,,
+460,7/8/2015,El Salvador,Canada,North America,North America,89,109,371,290,0,0,Gold Cup,Carson,USA,TRUE,No,Draw,,64,,,,64.5,66.3,72
+461,7/11/2015,Jamaica,Canada,North America,North America,76,103,436,328,1,0,Gold Cup,Houston,USA,TRUE,No,Win,68,64,68.8,69.3,66,64.5,66.3,72
+462,7/14/2015,Canada,Costa Rica,North America,North America,103,41,328,695,0,0,Gold Cup,Toronto,Canada,FALSE,No,Draw,64,79,64.5,66.3,72,71.5,72.3,71.8
+473,6/11/2016,Wales,Slovakia,Europe,Europe,26,24,846,851,2,1,UEFA Euro,Bordeaux,France,TRUE,No,Win,73,72,76.5,75,76.2,77,69.3,76
+474,6/16/2016,England,Wales,Europe,Europe,11,26,1069,846,2,1,UEFA Euro,Lens,France,TRUE,No,Win,84,73,83,81,83.2,76.5,75,76.2
+475,6/20/2016,Russia,Wales,Europe,Europe,29,26,828,846,0,3,UEFA Euro,Toulouse,France,TRUE,No,Lose,81,73,78.8,76,79.8,76.5,75,76.2
+476,6/25/2016,Wales,Northern Ireland,Europe,Europe,26,25,846,851,1,0,UEFA Euro,Paris,France,TRUE,No,Win,73,68,76.5,75,76.2,74.2,67.7,72.2
+477,7/1/2016,Wales,Belgium,Europe,Europe,26,2,846,1383,3,1,UEFA Euro,Villeneuve-d'Ascq,France,TRUE,No,Win,73,86,76.5,75,76.2,82,81.3,84.8
+478,7/6/2016,Portugal,Wales,Europe,Europe,8,26,1181,846,2,0,UEFA Euro,Lyon,France,TRUE,No,Win,81,73,81.2,84.7,81.8,76.5,75,76.2
+463,7/11/2017,Costa Rica,Canada,North America,North America,26,100,838,330,1,1,Gold Cup,Houston,USA,TRUE,No,Draw,85,65,75.5,68.3,76.8,67.5,71.3,72.8
+464,7/14/2017,Canada,Honduras,North America,North America,100,72,330,498,0,0,Gold Cup,Frisco,USA,TRUE,No,Draw,65,,67.5,71.3,72.8,71.2,68.3,66
+465,7/20/2017,Jamaica,Canada,North America,North America,76,100,442,330,2,1,Gold Cup,Glendale,USA,TRUE,No,Win,72,65,73,72,69.8,67.5,71.3,72.8
+368,6/14/2018,Russia,Saudi Arabia,Europe,Asia,70,67,456,465,5,0,FIFA World Cup,Moscow,Russia,FALSE,No,Win,79,73,78.5,79.7,79.8,74.2,71,74.5
+369,6/15/2018,Egypt,Uruguay,Africa,South America,45,14,649,1018,0,1,FIFA World Cup,Ekaterinburg,Russia,TRUE,No,Lose,73,82,71.5,74.3,74.8,82.5,85.3,78
+370,6/15/2018,Morocco,IR Iran,Africa,Asia,41,37,685,708,0,1,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Lose,71,71,76.5,75.3,80.2,,75,66.2
+371,6/15/2018,Portugal,Spain,Europe,Europe,4,10,1273,1125,3,3,FIFA World Cup,Sochi,Russia,TRUE,No,Draw,83,90,82,85,83.2,86.8,84.7,87
+372,6/16/2018,France,Australia,Europe,Oceania,7,36,1198,718,2,1,FIFA World Cup,Kazan,Russia,TRUE,No,Win,88,77,84,86.3,86.2,72.2,73,74.8
+373,6/16/2018,Argentina,Iceland,South America,Europe,5,22,1241,908,1,1,FIFA World Cup,Moscow,Russia,TRUE,No,Draw,83,67,83,90.7,83.5,70.8,74,75.8
+374,6/16/2018,Peru,Denmark,South America,Europe,11,12,1125,1051,0,1,FIFA World Cup,Saransk,Russia,TRUE,No,Lose,74,83,73.2,,75.8,79.5,77.3,81
+375,6/16/2018,Croatia,Nigeria,Europe,Africa,20,48,945,617,2,0,FIFA World Cup,Kaliningrad,Russia,TRUE,No,Win,85,81,80.8,79.3,85.8,74.2,75.3,75.5
+376,6/17/2018,Costa Rica,Serbia,North America,Europe,23,34,884,750,0,1,FIFA World Cup,Samara,Russia,TRUE,No,Lose,85,74,74.5,71,74.5,80,74.7,81.2
+377,6/17/2018,Germany,Mexico,Europe,North America,1,15,1558,989,0,1,FIFA World Cup,Moscow,Russia,TRUE,No,Lose,92,79,85.8,82,87.5,77.8,81,80
+378,6/17/2018,Brazil,Switzerland,South America,Europe,2,6,1430,1198,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE,No,Draw,83,84,86.8,87,83.8,79,75,79.8
+379,6/18/2018,Sweden,Korea Republic,Europe,Asia,24,57,879,543,1,0,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,No,Win,75,74,78.5,82,78.8,73.5,74,77.5
+380,6/18/2018,Belgium,Panama,Europe,North America,3,55,1298,571,3,0,FIFA World Cup,Sochi,Russia,TRUE,No,Win,89,,83.5,87.3,85.8,68,66,67.8
+381,6/18/2018,Tunisia,England,Africa,Europe,21,12,909,1050,1,2,FIFA World Cup,Volgograd,Russia,TRUE,No,Lose,63,82,74,71.7,73.5,82.8,83.3,82.8
+382,6/19/2018,Colombia,Japan,South America,Asia,16,61,985,520,1,2,FIFA World Cup,Saransk,Russia,TRUE,No,Lose,79,72,78.8,82,80.5,75.2,76.7,78.8
+383,6/19/2018,Poland,Senegal,Europe,Africa,8,27,1182,837,1,2,FIFA World Cup,Moscow,Russia,TRUE,No,Lose,82,73,79.2,82.7,78.2,79.5,80.7,78.8
+384,6/19/2018,Russia,Egypt,Europe,Africa,70,45,456,649,3,1,FIFA World Cup,Saint Petersburg,Russia,FALSE,No,Win,79,73,78.5,79.7,79.8,71.5,74.3,74.8
+385,6/20/2018,Portugal,Morocco,Europe,Africa,4,41,1273,685,1,0,FIFA World Cup,Moscow,Russia,TRUE,No,Win,83,71,82,85,83.2,76.5,75.3,80.2
+386,6/20/2018,Uruguay,Saudi Arabia,South America,Asia,14,67,1018,465,1,0,FIFA World Cup,Rostov-on-Don,Russia,TRUE,No,Win,82,73,82.5,85.3,78,74.2,71,74.5
+387,6/20/2018,IR Iran,Spain,Asia,Europe,37,10,708,1125,0,1,FIFA World Cup,Kazan,Russia,TRUE,No,Lose,71,90,,75,66.2,86.8,84.7,87
+388,6/21/2018,Denmark,Australia,Europe,Oceania,12,36,1051,718,1,1,FIFA World Cup,Samara,Russia,TRUE,No,Draw,83,77,79.5,77.3,81,72.2,73,74.8
+389,6/21/2018,France,Peru,Europe,South America,7,11,1198,1125,1,0,FIFA World Cup,Ekaterinburg,Russia,TRUE,No,Win,88,74,84,86.3,86.2,73.2,,75.8
+390,6/21/2018,Argentina,Croatia,South America,Europe,5,20,1241,945,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,No,Lose,83,85,83,90.7,83.5,80.8,79.3,85.8
+391,6/22/2018,Brazil,Costa Rica,South America,North America,2,23,1430,884,2,0,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Win,83,85,86.8,87,83.8,74.5,71,74.5
+392,6/22/2018,Nigeria,Iceland,Africa,Europe,48,22,617,908,2,0,FIFA World Cup,Volgograd,Russia,TRUE,No,Win,81,67,74.2,75.3,75.5,70.8,74,75.8
+393,6/22/2018,Serbia,Switzerland,Europe,Europe,34,6,750,1198,1,2,FIFA World Cup,Kaliningrad,Russia,TRUE,No,Lose,74,84,80,74.7,81.2,79,75,79.8
+394,6/23/2018,Belgium,Tunisia,Europe,Africa,3,21,1298,909,5,2,FIFA World Cup,Moscow,Russia,TRUE,No,Win,89,63,83.5,87.3,85.8,74,71.7,73.5
+395,6/23/2018,Korea Republic,Mexico,Asia,North America,57,15,543,989,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,No,Lose,74,79,73.5,74,77.5,77.8,81,80
+396,6/23/2018,Germany,Sweden,Europe,Europe,1,24,1558,879,2,1,FIFA World Cup,Sochi,Russia,TRUE,No,Win,92,75,85.8,82,87.5,78.5,82,78.8
+397,6/24/2018,England,Panama,Europe,North America,12,55,1050,571,6,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,No,Win,82,,82.8,83.3,82.8,68,66,67.8
+398,6/24/2018,Japan,Senegal,Asia,Africa,61,27,520,837,2,2,FIFA World Cup,Ekaterinburg,Russia,TRUE,No,Draw,72,73,75.2,76.7,78.8,79.5,80.7,78.8
+399,6/24/2018,Poland,Colombia,Europe,South America,8,16,1182,985,0,3,FIFA World Cup,Kazan,Russia,TRUE,No,Lose,82,79,79.2,82.7,78.2,78.8,82,80.5
+400,6/25/2018,Russia,Uruguay,Europe,South America,70,14,456,1018,0,3,FIFA World Cup,Samara,Russia,FALSE,No,Lose,79,82,78.5,79.7,79.8,82.5,85.3,78
+401,6/25/2018,Saudi Arabia,Egypt,Asia,Africa,67,45,465,649,2,1,FIFA World Cup,Volgograd,Russia,TRUE,No,Win,73,73,74.2,71,74.5,71.5,74.3,74.8
+402,6/25/2018,Spain,Morocco,Europe,Africa,10,41,1125,685,2,2,FIFA World Cup,Kaliningrad,Russia,TRUE,No,Draw,90,71,86.8,84.7,87,76.5,75.3,80.2
+403,6/25/2018,IR Iran,Portugal,Asia,Europe,37,4,708,1273,1,1,FIFA World Cup,Saransk,Russia,TRUE,No,Draw,71,83,,75,66.2,82,85,83.2
+404,6/26/2018,Australia,Peru,Oceania,South America,36,11,718,1125,0,2,FIFA World Cup,Sochi,Russia,TRUE,No,Lose,77,74,72.2,73,74.8,73.2,,75.8
+405,6/26/2018,Denmark,France,Europe,Europe,12,7,1051,1198,0,0,FIFA World Cup,Moscow,Russia,TRUE,No,Draw,83,88,79.5,77.3,81,84,86.3,86.2
+406,6/26/2018,Nigeria,Argentina,Africa,South America,48,5,617,1241,1,2,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Lose,81,83,74.2,75.3,75.5,83,90.7,83.5
+407,6/26/2018,Iceland,Croatia,Europe,Europe,22,20,908,945,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,No,Lose,67,85,70.8,74,75.8,80.8,79.3,85.8
+408,6/27/2018,Korea Republic,Germany,Asia,Europe,57,1,543,1558,2,0,FIFA World Cup,Kazan,Russia,TRUE,No,Win,74,92,73.5,74,77.5,85.8,82,87.5
+409,6/27/2018,Mexico,Sweden,North America,Europe,15,24,989,879,0,3,FIFA World Cup,Ekaterinburg,Russia,TRUE,No,Lose,79,75,77.8,81,80,78.5,82,78.8
+410,6/27/2018,Serbia,Brazil,Europe,South America,34,2,750,1430,0,2,FIFA World Cup,Moscow,Russia,TRUE,No,Lose,74,83,80,74.7,81.2,86.8,87,83.8
+411,6/27/2018,Switzerland,Costa Rica,Europe,North America,6,23,1198,884,2,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,No,Draw,84,85,79,75,79.8,74.5,71,74.5
+412,6/28/2018,Japan,Poland,Asia,Europe,61,8,520,1182,0,1,FIFA World Cup,Volgograd,Russia,TRUE,No,Lose,72,82,75.2,76.7,78.8,79.2,82.7,78.2
+413,6/28/2018,Senegal,Colombia,Africa,South America,27,16,837,985,0,1,FIFA World Cup,Samara,Russia,TRUE,No,Lose,73,79,79.5,80.7,78.8,78.8,82,80.5
+414,6/28/2018,Panama,Tunisia,North America,Africa,55,21,571,909,1,2,FIFA World Cup,Saransk,Russia,TRUE,No,Lose,,63,68,66,67.8,74,71.7,73.5
+415,6/28/2018,England,Belgium,Europe,Europe,12,3,1050,1298,0,1,FIFA World Cup,Kaliningrad,Russia,TRUE,No,Lose,82,89,82.8,83.3,82.8,83.5,87.3,85.8
+416,6/30/2018,France,Argentina,Europe,South America,7,5,1198,1241,4,3,FIFA World Cup,Kazan,Russia,TRUE,No,Win,88,83,84,86.3,86.2,83,90.7,83.5
+417,6/30/2018,Uruguay,Portugal,South America,Europe,14,4,1018,1273,2,1,FIFA World Cup,Sochi,Russia,TRUE,No,Win,82,83,82.5,85.3,78,82,85,83.2
+418,7/1/2018,Russia,Spain,Europe,Europe,49,6,1758,2104,1,1,FIFA World Cup,Moscow,Russia,FALSE,Yes,Win,79,90,78.5,79.7,79.8,86.8,84.7,87
+419,7/1/2018,Croatia,Denmark,Europe,Europe,12,15,2036,2014,1,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Yes,Win,85,83,80.8,79.3,85.8,79.5,77.3,81
+420,7/2/2018,Brazil,Mexico,South America,North America,4,10,2160,2041,2,0,FIFA World Cup,Samara,Russia,TRUE,No,Win,83,79,86.8,87,83.8,77.8,81,80
+421,7/2/2018,Belgium,Japan,Europe,Asia,5,41,2124,1816,3,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,No,Win,89,72,83.5,87.3,85.8,75.2,76.7,78.8
+422,7/3/2018,Sweden,Switzerland,Europe,Europe,21,8,1955,2087,1,0,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Win,75,84,78.5,82,78.8,79,75,79.8
+423,7/3/2018,Colombia,England,South America,Europe,17,7,1998,2099,1,1,FIFA World Cup,Moscow,Russia,TRUE,Yes,Lose,79,82,78.8,82,80.5,82.8,83.3,82.8
+424,7/6/2018,Uruguay,France,South America,Europe,14,2,2017,2164,0,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,No,Lose,82,88,82.5,85.3,78,84,86.3,86.2
+425,7/6/2018,Brazil,Belgium,South America,Europe,4,5,2160,2124,1,2,FIFA World Cup,Kazan,Russia,TRUE,No,Lose,83,89,86.8,87,83.8,83.5,87.3,85.8
+426,7/7/2018,Sweden,England,Europe,Europe,21,7,1955,2099,0,2,FIFA World Cup,Samara,Russia,TRUE,No,Lose,75,82,78.5,82,78.8,82.8,83.3,82.8
+427,7/7/2018,Russia,Croatia,Europe,Europe,49,12,1758,2036,2,2,FIFA World Cup,Sochi,Russia,FALSE,Yes,Lose,79,85,78.5,79.7,79.8,80.8,79.3,85.8
+428,7/10/2018,France,Belgium,Europe,Europe,2,5,2164,2124,1,0,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Win,88,89,84,86.3,86.2,83.5,87.3,85.8
+429,7/11/2018,Croatia,England,Europe,Europe,12,7,2036,2099,2,1,FIFA World Cup,Moscow,Russia,TRUE,No,Win,85,82,80.8,79.3,85.8,82.8,83.3,82.8
+430,7/14/2018,Belgium,England,Europe,Europe,5,7,2124,2099,2,0,FIFA World Cup,Saint Petersburg,Russia,TRUE,No,Win,89,82,83.5,87.3,85.8,82.8,83.3,82.8
+431,7/15/2018,France,Croatia,Europe,Europe,2,12,2164,2036,4,2,FIFA World Cup,Moscow,Russia,TRUE,No,Win,88,85,84,86.3,86.2,80.8,79.3,85.8
+500,1/9/2019,Qatar,Lebanon,Asia,Asia,93,81,1258,1296,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE,No,Win,,,,,,,,
+501,1/13/2019,Korea DPR,Qatar,Asia,Asia,109,93,1196,1258,0,6,AFC Asian Cup,Al Ain,United Arab Emirates,TRUE,No,Lose,,,,68,,,,
+502,1/17/2019,Saudi Arabia,Qatar,Asia,Asia,69,93,1335,1258,0,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE,No,Lose,70,,72,68.7,73,,,
+503,1/22/2019,Qatar,Iraq,Asia,Asia,93,88,1258,1271,1,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE,No,Win,,,,,,,,65.2
+504,1/25/2019,Korea Republic,Qatar,Asia,Asia,53,93,1405,1258,0,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE,No,Lose,74,,71.8,74.3,77.8,,,
+505,1/29/2019,United Arab Emirates,Qatar,Asia,Asia,79,93,1309,1258,0,4,AFC Asian Cup,Abu Dhabi,United Arab Emirates,FALSE,No,Lose,,,,,,,,
+506,2/1/2019,Japan,Qatar,Asia,Asia,50,93,1414,1258,1,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,TRUE,No,Lose,72,,76,76.3,79.5,,,
+466,6/19/2019,Mexico,Canada,North America,North America,18,78,1557,1314,3,1,Gold Cup,Denver,USA,TRUE,No,Win,77,71,76,77.3,81.2,66.5,70.7,74.5
+467,6/23/2019,Canada,Cuba,North America,North America,78,175,1314,961,7,0,Gold Cup,Charlotte,USA,TRUE,No,Win,71,60,66.5,70.7,74.5,,,
+468,6/29/2019,Haiti,Canada,North America,North America,101,78,1219,1314,3,2,Gold Cup,Houston,USA,TRUE,No,Win,,71,,64,62.8,66.5,70.7,74.5
+479,6/12/2021,Wales,Switzerland,Europe,Europe,17,13,1570,1606,1,1,UEFA Euro,Cardiff,Wales,FALSE,No,Draw,75,86,75.2,70,79.8,78.2,75,80.5
+480,6/16/2021,Turkey,Wales,Europe,Europe,29,17,1505,1570,0,2,UEFA Euro,Baku,Azerbaijan,TRUE,No,Lose,77,75,77.5,77,77,75.2,70,79.8
+481,6/20/2021,Italy,Wales,Europe,Europe,7,17,1642,1570,1,0,UEFA Euro,Rome,Italy,FALSE,No,Win,85,75,84.5,84.3,82.5,75.2,70,79.8
+482,6/26/2021,Wales,Denmark,Europe,Europe,17,10,1570,1631,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE,No,Lose,75,84,75.2,70,79.8,79,77.7,80.5
+469,7/15/2021,Haiti,Canada,North America,North America,83,70,1290,1340,1,4,Gold Cup,Kansas City,USA,TRUE,No,Lose,,75,,,64.5,71.2,70.7,74.2
+470,7/18/2021,USA,Canada,North America,North America,20,70,1555,1340,1,0,Gold Cup,Kansas City,USA,FALSE,No,Win,76,75,75.5,76.7,75.2,71.2,70.7,74.2
+471,7/25/2021,Costa Rica,Canada,North America,North America,50,70,1423,1340,0,2,Gold Cup,Arlington,USA,TRUE,No,Lose,87,75,71,68.7,68.5,71.2,70.7,74.2
+472,7/29/2021,Mexico,Canada,North America,North America,11,70,1629,1340,2,1,Gold Cup,Houston,USA,TRUE,No,Win,79,75,76.8,83.7,78.2,71.2,70.7,74.2

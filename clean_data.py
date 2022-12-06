@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv ('MatchesData2.csv')
+df = pd.read_csv ('international_matches.csv')
 #The data set below is for the purposes of getting data for countries that haven't been to the World Cup recentely
 df_wc = df[(df['tournament'] == 'FIFA World Cup')]
 #print(df_filtered_comp)
@@ -11,6 +11,6 @@ df_qatar = df[((df['home_team'] == 'Qatar' ) | (df['away_team'] == 'Qatar')) & (
 df_wc_ = df_wc.append(df_canada, ignore_index=True)
 df_wc__ = df_wc_.append(df_wales, ignore_index=True)
 df_wc___ = df_wc__.append(df_qatar, ignore_index=True)
-#print(df_wc___)
+print(df_wc___)
 
-#df_wc___.to_csv('match_data.csv')
+df_wc___.to_csv('international_matches_data.csv')
